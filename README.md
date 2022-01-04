@@ -1,6 +1,6 @@
 <h1 align="center">Dental System C# 🦷 </h1>
 
-<h3 align="center">Aplicativo desenvolvido utilizando C#, Guna UI e Bunifu UI</h3>
+<h3 align="center">Sistema Desktop desenvolvido utilizando C#, Guna UI e Bunifu UI</h3>
 <h4 align="center">Um dos meus primeiros projetos desenvolvidos, realizei na epoca de faculdade. 💓</h4>
 
 <div style="display: inline_block" align = "center"><br>
