@@ -18,7 +18,7 @@ namespace ClinicaDentaria2
             InitializeComponent();
 
         }
-        SqlConnection Con = new SqlConnection(@"Data Source=DESKTOP-4GBQF31\SQLEXPRESS;Integrated Security=True");
+        SqlConnection Con = new SqlConnection(@"xxxxxxxxxxxxxxxxxxxxxxxxxxxx");
         private void ConsultasForm_Load(object sender, EventArgs e)
         {
             bunifuTextBox2.Visible = !bunifuTextBox2.Visible;
