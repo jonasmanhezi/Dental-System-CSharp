@@ -12,7 +12,7 @@ namespace ClinicaDentaria2
         public SqlConnection GetCon()
         {
             SqlConnection Con = new SqlConnection();
-            Con.ConnectionString = @"Data Source=DESKTOP-OQO1RAI\SQLEXPRESS;Initial Catalog=Clinica;Integrated Security=True";
+            Con.ConnectionString = @"xxxxxxxxxxxxxxxxxxxxxx";
             return Con;
         }
         
