@@ -17,7 +17,7 @@ namespace ClinicaDentaria2
         {
             InitializeComponent();
         }
-        SqlConnection Con = new SqlConnection(@"Data Source=DESKTOP-4GBQF31\SQLEXPRESS;Integrated Security=True");
+        SqlConnection Con = new SqlConnection(@"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
         private void Estoque_Load(object sender, EventArgs e)
         {
             SetStyle(ControlStyles.OptimizedDoubleBuffer, true);
