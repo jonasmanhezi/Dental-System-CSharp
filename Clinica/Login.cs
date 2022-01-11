@@ -16,7 +16,7 @@ namespace ClinicaDentaria2
         {
             InitializeComponent();
         }
-        SqlConnection Con = new SqlConnection(@"Data Source=DESKTOP-4GBQF31\SQLEXPRESS;Integrated Security=True");
+        SqlConnection Con = new SqlConnection(@"xxxxxxxxxxxxxxxxxxxxxxxx");
 
         private void guna2HtmlLabel1_Click(object sender, EventArgs e)
         {
